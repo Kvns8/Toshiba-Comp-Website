@@ -25,18 +25,18 @@ Common ARSR has a massive range of 200 nautical miles, equivalent to 230 miles. 
           </p>
 
           <div className={styles.grid}>
-            <a href="https://toshiba-comp-website-emgj9bu46-kvns8.vercel.app/PresentTech" className={styles.card}>
+            <a href="https://toshiba-comp-website.vercel.app/PresentTech" className={styles.card}>
                 <h3>ExploraVision &rarr;</h3>
                 <p>Find in-depth information about present technology</p>
               </a>
 
-              <a href="https://toshiba-comp-website-emgj9bu46-kvns8.vercel.app/History" className={styles.card}>
+              <a href="https://toshiba-comp-website.vercel.app/History" className={styles.card}>
                 <h3>History &rarr;</h3>
                 <p>Look into the History of C.A.R.D.</p>
               </a>
 
               <a
-                href="https://toshiba-comp-website-emgj9bu46-kvns8.vercel.app/FutureTech"
+                href="https://toshiba-comp-website.vercel.app/FutureTech"
                 className={styles.card}
               >
                 <h3>Future Technology &rarr;</h3>
@@ -44,7 +44,7 @@ Common ARSR has a massive range of 200 nautical miles, equivalent to 230 miles. 
               </a>
 
               <a
-                href="https://toshiba-comp-website-emgj9bu46-kvns8.vercel.app/ML"
+                href="https://toshiba-comp-website.vercel.app/ML"
                 className={styles.card}
               >
                 <h3>Machine Learning &rarr;</h3>
@@ -56,7 +56,7 @@ Common ARSR has a massive range of 200 nautical miles, equivalent to 230 miles. 
           </main>
 
           <footer className={styles.footer}>
-            <a href="https://toshiba-comp-website-prmvos6w9-kvns8.vercel.app/Home">
+            <a href="https://toshiba-comp-website.vercel.app/Home">
               Go to Home &rarr;
             </a>
         </footer>
