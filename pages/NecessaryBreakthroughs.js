@@ -26,7 +26,7 @@ export default function Home() {
           Right now machine learning is quite data intensive, and thus expensive. Collecting data can take several months, and training can take even longer.
           </p>
 
-          <img src=
+          <img src="Placeholder.jpeg" alt="Placeholder"></img>
 
           <div className={styles.grid}>
             <a href="https://nextjszvtxap-y0ad-k13xwdbz--3000.local-credentialless.webcontainer.io/PresentTech" className={styles.card}>
