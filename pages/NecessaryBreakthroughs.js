@@ -60,7 +60,7 @@ export default function Home() {
         </main>
 
         <footer className={styles.footer}>
-          <a href="https://nextjszvtxap-y0ad-k13xwdbz--3000.local-credentialless.webcontainer.io/Home">
+          <a href="https://toshiba-comp-website-prmvos6w9-kvns8.vercel.app/Home">
             Go to Home &rarr;
           </a>
         </footer>
