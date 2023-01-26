@@ -19,33 +19,33 @@ export default function History() {
           </p>
 
           <div className={styles.grid}>
-          <a href="https://nextjszvtxap-y0ad-k13xwdbz--3000.local-credentialless.webcontainer.io/PresentTech" className={styles.card}>
-              <h3>ExploraVision &rarr;</h3>
-              <p>Find in-depth information about present technology</p>
-            </a>
+            <a href="https://toshiba-comp-website-emgj9bu46-kvns8.vercel.app/PresentTech" className={styles.card}>
+                <h3>ExploraVision &rarr;</h3>
+                <p>Find in-depth information about present technology</p>
+              </a>
 
-            <a href="https://nextjszvtxap-y0ad-k13xwdbz--3000.local-credentialless.webcontainer.io/History" className={styles.card}>
-              <h3>History &rarr;</h3>
-              <p>Look into the History of C.A.R.D.</p>
-            </a>
+              <a href="https://toshiba-comp-website-emgj9bu46-kvns8.vercel.app/History" className={styles.card}>
+                <h3>History &rarr;</h3>
+                <p>Look into the History of C.A.R.D.</p>
+              </a>
 
-            <a
-              href="https://nextjszvtxap-y0ad-k13xwdbz--3000.local-credentialless.webcontainer.io/FutureTech"
-              className={styles.card}
-            >
-              <h3>Future Technology &rarr;</h3>
-              <p>See into the future of C.A.R.D.</p>
-            </a>
+              <a
+                href="https://toshiba-comp-website-emgj9bu46-kvns8.vercel.app/FutureTech"
+                className={styles.card}
+              >
+                <h3>Future Technology &rarr;</h3>
+                <p>See into the future of C.A.R.D.</p>
+              </a>
 
-            <a
-              href="https://nextjszvtxap-y0ad-k13xwdbz--3000.local-credentialless.webcontainer.io/ML"
-              className={styles.card}
-            >
-              <h3>Machine Learning &rarr;</h3>
-              <p>
-              Learn more about the ML algorithms used to build AIs
-              </p>
-            </a>
+              <a
+                href="https://toshiba-comp-website-emgj9bu46-kvns8.vercel.app/ML"
+                className={styles.card}
+              >
+                <h3>Machine Learning &rarr;</h3>
+                <p>
+                  Learn more about the ML algorithms used to build AIs
+                </p>
+              </a>
           </div>
         </main>
 
