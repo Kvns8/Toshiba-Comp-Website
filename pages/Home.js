@@ -19,19 +19,11 @@ export default function Home() {
         <main className={styles.main}>
 
           <h1 className={styles.header}>
-            Creosote and Ash Removal Device (C.A.R.D.) Abstract
+            Abstract
           </h1>
 
           <p className={styles.description}>
-          The Creosote and Ash Removal Device (C.A.R.D.) is used to remove creosote from
-  chimney lining. C.A.R.D. scrubs and vacuums creosote into a disposal bag outside of the
-  chimney. C.A.R.D. is a compact robot with embedded code designed to fit inside the average
-  chimney. Using technology from both robot pool cleaners and vacuum cleaners, C.A.R.D. will
-  work by climbing chimney walls using wheels whose tread mimic gecko feet. C.A.R.D will use
-  three wire brushes to scrub dehydrated, calcified creosote from the chimney walls. Before using
-  C.A.R.D, creosote acid treatment must be applied for the time specified, the creosote becomes
-  brittle and hardens. Although this isn’t done by C.A.R.D, once the treatment is applied, C.A.R.D.
-  can systematically remove creosote and ash without putting people at risk.
+          The number of aircraft in the sky is increasing rapidly. Recent nationwide flight delays (caused by accidentally deleted Notice to Air Mission (NOTAM) files) remind us that air traffic control systems must be updated to work smoothly in the 21st century. The current human-controlled flight path technology has led to disasters such as Aeroflot flight 3352 which was caused by a sleeping air traffic controller [1]. The path forward is to create an Artificial Intelligence (AI) system that can control flights 24 hours a day, providing near-maximum efficiency and improved passenger safety.
           </p>
 
           <div className={styles.grid}>
